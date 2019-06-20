@@ -7,7 +7,7 @@ p2  https://pbs.twimg.com/profile_images/798738661294608384/KdcoeAU3_400x400.jpg
 p3  https://fanart.tv/fanart/music/875203e1-8e58-4b86-8dcb-7190faf411c5/hdmusiclogo/cole-j-50a3dac96d6fa.png
 http://hiphop-n-more.com/wp-content/uploads/2018/04/j-cole-king.jpg
 -->
-  <link href="./Style.css" rel="stylesheet" type="text/css">
+  <link href="Style.css" rel="stylesheet" type="text/css">
 
 </head>
 <body>
