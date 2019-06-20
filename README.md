@@ -2,7 +2,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Page Title</title>
 <!--
 p1  http://hiphophundred.com/wp-content/uploads/2013/06/drea.png
 p2  https://pbs.twimg.com/profile_images/798738661294608384/KdcoeAU3_400x400.jpg
