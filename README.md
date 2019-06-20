@@ -1,10 +1,3 @@
-# Website-Testing
-
-My Old Websites, made with HTML5 & CSS, back in 7th grade
-
-# Website/J.cole Biography
-
-Finished: July 11, 2018
 
 <!DOCTYPE html>
 <html>
@@ -16,73 +9,6 @@ p2  https://pbs.twimg.com/profile_images/798738661294608384/KdcoeAU3_400x400.jpg
 p3  https://fanart.tv/fanart/music/875203e1-8e58-4b86-8dcb-7190faf411c5/hdmusiclogo/cole-j-50a3dac96d6fa.png
 http://hiphop-n-more.com/wp-content/uploads/2018/04/j-cole-king.jpg
 -->
-<style>
-
-body,a,#click{
-
-color:#C1B054;
-font-family:Arial;
-background-color:#191919;
-
-}
-
-#contents{
-
-margin-bottom:40px;
-
-}
-
-
-#c{
-
-display:inline;
-margin:40px;
-
-
-}
-
-h3,h4{
-
-color:#181818;
-background-color:#FFDF00;
-}
-
-h1{
-
-color:#FFDF00;
-margin-left:15px;
-
-}
-
-
-.partone,.partthree,.parttwo{
-
-padding:10px;
-
-}
-
-
-#img{
-
-margin:14px;
-
-border:2px solid #C1B054;
-
-margin-top:6px;
-
-}
-
-#ed{
-
-border:2px solid #C1B054;
-padding:3px;
-margin-bottom:2px;
-
-
-}
-
-
-</style>
 </head>
 <body>
 
